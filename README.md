@@ -20,5 +20,5 @@ Demos from [Jan 11, 2021 .NET Docs Show](https://www.youtube.com/watch?v=biL1XOc
 - [F# YouTube Channel](https://www.youtube.com/c/fsharporg/videos)
 - [F# Projects](http://fsprojects.github.io/)
 - [SAFE Stack](https://safe-stack.github.io/)
-- [Microsoft Docs](https://docs.microsoft.com/dotnet/fsharp/)
 - [F# Weekly](https://sergeytihon.com/category/f-weekly/)
+- [Microsoft Docs](https://docs.microsoft.com/dotnet/fsharp/)
